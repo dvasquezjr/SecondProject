@@ -1,2 +1,2 @@
 # SecondProject
-Learning more in detail about Git
+Learning more in detail about Git. Hello Everyone.
